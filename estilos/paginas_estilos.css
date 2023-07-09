@@ -1,0 +1,28 @@
+@media screen and (min-width: 360px){
+    .cabecalho{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 1em;
+        
+
+    }
+    .cabecalho__item{
+        padding: 1em;
+        
+    }
+    .titulo{
+        font-size: 32px;
+        padding-bottom: 1em;
+    }
+    .gestao__titulo{
+        font-weight: bold;
+        padding-bottom: 1em;
+    }
+    .gestao__infos{
+        padding: 1em;
+
+    }
+    .link_pasta__drive{
+        color: red;
+    }
+}

@@ -1,0 +1,282 @@
+# Query: Clique aqui</a></h3>
+# ContextLines: 1
+
+70 resultados - 35 arquivos
+
+modelo.txt:
+   1: <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>   
+   2  
+
+  32       <h3 class="gestao__infos">CNPJ: </h3>
+  33:     <h3 class="gestao__infos">Website: <a href="" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  34      <h3 class="gestao__infos">Email:</h3>
+
+PaginasDoMunicipio\Alpestre.html:
+  31          <h3 class="gestao__infos">CNPJ: 87.612.933/0001-18</h3>
+  32:         <h3 class="gestao__infos">Website: <a href=" http://www.alpestre.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  33          <h3 class="gestao__infos">Email: gabinete@alpestre.rs.gov.br</h3>
+  34          <h3 class="gestao__infos">Telefone: (55) 3796-1020</h3>
+  35:         <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6BvNuFbYXwAkOCKLQ?e=1bJwQK" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>    
+  36          <h3 class="gestao__infos">Endreço: PRAÇA TANCREDO NEVES, 300
+
+PaginasDoMunicipio\Arambaré.html:
+  31          <h3 class="gestao__infos">CNPJ: 90.152.950/0001-24</h3>
+  32:         <h3 class="gestao__infos">Website: <a href="http://www.arambare.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  33          <h3 class="gestao__infos">Email: gabinete@arambare.rs.gov.br</h3>
+  34          <h3 class="gestao__infos">Telefone: (51) 3676-2521</h3>
+  35:         <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6BwME8pLtxTxbGSkg?e=JQFwqc" target="_blank"  class="link_pasta__drive">Clique aqui</a></h3>   
+  36          <h3 class="gestao__infos">Endreço: RUA ORMEZINDA RAMOS LOUREIRO, 180
+
+PaginasDoMunicipio\Balneário__Pinhal.html:
+  29          <h3 class="gestao__infos">CNPJ: 01.611.339/0001-97</h3>
+  30:         <h3 class="gestao__infos">Website: <a href="http://www.balneariopinhal.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31          <h3 class="gestao__infos">Email: gabinetedaprefeita@balneariopinhal.rs.gov.br</h3>
+  32          <h3 class="gestao__infos">Telefone: (51) 3682-0150</h3>
+  33:         <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6BzvnF54DJb1GGsSw?e=pUfdmK" target="_blank"  class="link_pasta__drive">Clique aqui</a></h3> 
+  34          <h3 class="gestao__infos">Endreço: AV. ITÁLIA, 3100
+
+PaginasDoMunicipio\Barra__do__Guarita.html:
+  29      <h3 class="gestao__infos">CNPJ:  94.726.312/0001-20 </h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.barradoguarita.atende.net" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: pmguarita@gmail.com</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3616-1010</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6BycJcGzYDyg1oiuw?e=qdwZ6u" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: RUA SOBRADINHO, 09
+
+PaginasDoMunicipio\Barra__do__Ribeiro.html:
+  29      <h3 class="gestao__infos">CNPJ: 88.811.930/0001-76</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.barradoribeiro.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: prefeitura@barradoribeiro.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3482-2107</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6BzvnF54DJb1GGsSw?e=yBts8T" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: RUA DR. MAURÍCIO CARDOSO, 221
+
+PaginasDoMunicipio\Caiçara.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.612.925/0001-71</h3>
+  30:     <h3 class="gestao__infos">Website: <a href=" http://www.caicara.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: administracao@caicara.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3738-1212</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B0ZXAlhiX121UHYQ?e=RdWvku" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: RUA CUBA, 64
+
+PaginasDoMunicipio\Camaquã.html:
+  29      <h3 class="gestao__infos">CNPJ: 88.696.810/0001-75</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.camaqua.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@camaqua.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3671-7200</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B1-XqtSd489tS2iQ?e=qYGd1m" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV. OLAVO MORAES, 869
+
+PaginasDoMunicipio\Capivari__do__Sul.html:
+  29      <h3 class="gestao__infos">CNPJ: 01.610.503/0001-41</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.capivaridosul.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@capivaridosul.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3685-1181</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B2PCcNxkAkkm3Jhg?e=AFqz6c" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV. ADRIÃO MONTEIRO, 2330  Bairro: Centro
+
+PaginasDoMunicipio\Cerro__Grande__do__Sul.html:
+  29      <h3 class="gestao__infos">CNPJ: 92.324.748/0001-68</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.cerrograndedosul.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@cerrograndedosul.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3675-1122</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B3DneJwGo6fgrYBw?e=lLdM0f" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: RUA ERNESTO IGOMAR SCHMAEDECKE, 71
+
+PaginasDoMunicipio\Chuvisca.html:
+  29      <h3 class="gestao__infos">CNPJ: 01.610.869/0001-10</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.chuvisca.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@chuvisca.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3611-7093</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B4ZYWQDyYWNG8e7Q?e=sdLUZ7" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV 28 DE DEZEMBRO, 3000
+
+PaginasDoMunicipio\Ciríaco.html:
+  29      <h3 class="gestao__infos">CNPJ: 88.202.437/0001-59</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.ciriaco.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@pmciriaco.com.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (54) 3346-1166</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B5Fqw6MhReb39SLQ?e=wfEv5w" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV. 19 DE MAIO, 537
+
+PaginasDoMunicipio\Cristal.html:
+  29      <h3 class="gestao__infos">CNPJ: 90.152.240/0001-02</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.cristal.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@cristal.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3678-1100</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B602TKtfq-EigfrA?e=oEfb2V" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: RUA 7 DE SETEMBRO, 177
+
+PaginasDoMunicipio\Dom__Feliciano.html:
+  29      <h3 class="gestao__infos">CNPJ: 88.601.943/0001-10</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.domfeliciano.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: prefeito@domfeliciano.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3677-1295</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B7DQOXtOnzeULd5Q?e=XwAShK" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV. BORGES DE MEDEIROS, 279
+
+PaginasDoMunicipio\Entre__Rios__do__Sul.html:
+  29      <h3 class="gestao__infos">CNPJ: 92.453.927/0001-03</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.entreriosdosul-rs.com.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@entreriosdosul.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (54) 3544-1085</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B8494s82FktoJW4Q?e=KWbGCk" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV. DANILO LORENZI, 585
+
+PaginasDoMunicipio\Erval__Seco.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.613.212/0001-22</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.ervalseco.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@ervalseco.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3748-1200</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B9mnMmeI269nw7Sw?e=paEoBE" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV. DO COMÉRCIO, 364
+
+PaginasDoMunicipio\Frederico__Westphalen.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.612.917/0001-25</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.fredericowestphalen-rs.com.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@fredericowestphalen.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3744-5050</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B-ngo7pCnJkThURg?e=nUrwF0" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: RUA JOSÉ CANELLAS, 258
+
+PaginasDoMunicipio\Imbé.html:
+  29      <h3 class="gestao__infos">CNPJ: 90.256.652/0001-84</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.imbe.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@imbe.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3627-8208</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6B_dqLu9U3iKj7Hug?e=ZAmpdo" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: AV. PARAGUASSÚ, 1043
+
+PaginasDoMunicipio\Itatiba__do__Sul.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.613.402/0001-40</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.itatibadosul.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: itatibadosul@itatibadosul-rs.com.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (54) 3528-1170</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EALlyLS19tAUMpTg?e=q5ODud" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  34       <h3 class="gestao__infos">Endreço: AV ANTONILO ANGELO TOZZO, 845
+
+PaginasDoMunicipio\Ivorá.html:
+  29      <h3 class="gestao__infos">CNPJ: 92.457.175/0001-40</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.ivora.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@ivora.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3267-1100</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EBZjpbM5CPWAOozA?e=307Xd9" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: RUA GARIBALDI, 1098
+
+PaginasDoMunicipio\Miraguaí.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.613.121/0001-97</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.miraguai.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: prefeito@miraguai.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3554-1186</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EC0XQVd0bATiZHPg?e=UIGMLp" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: AV. IJUÍ, 1593
+
+PaginasDoMunicipio\Paim__Filho.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.613.568/0001-66</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.paimfilho.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@paimfilho.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (54) 3531-1266</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EDBZhnZteQ96i5QA?e=t0EESQ" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: AV. RIO GRANDE, 1090
+
+PaginasDoMunicipio\Palmares__do__Sul.html:
+  29      <h3 class="gestao__infos">CNPJ: 90.836.701/0001-58</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.palmaresdosul.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@palmaresdosul.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3668-1200</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EErUOSxTeZCLQWGQ?e=at7M3q" target="_blank" class="link_pasta__drive">Clique aqui</a></h3> 
+  34       <h3 class="gestao__infos">Endreço: RUA NOSSA SENHORA DOS NAVEGANTES, 442
+
+PaginasDoMunicipio\Palmitinho.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.612.909/0001-89</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://www.palmitinho.atende.net" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: adm@palmitinho.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3791-1123</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EFv9QWxxhs0M3qJw?e=FAM1A7" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: RUA SANTOS DUMONT, 25
+
+PaginasDoMunicipio\Pinheirinho__do__Vale.html:
+  29      <h3 class="gestao__infos">CNPJ: 92.411.099/0001-32</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://pinheirinhodovale.rs.gov.br/" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: pinheirinhodovaleadm@gmail.com</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3792 1102</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EGrY7hckXl8TS--g?e=UdKrk8" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: Rua Duque de Caxias, 223, Centro
+
+PaginasDoMunicipio\Rodeio__Bonito.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.613.204/0001-86</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="https://www.rodeiobonito.rs.gov.br/" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: ouvidoria@rodeiobonito.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3798-1155</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EHjgWa9OtZJhRCSw?e=gpcQbE" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: Av. do Comércio, 196
+
+PaginasDoMunicipio\Ronda__Alta.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.711.503/0001-53</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="https://www.rondaalta.rs.gov.br/site" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: ouvidoria@rondaalta.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (54) 3364-5900 / (54)9 91723645</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EIJ4hvmcJUFmpMSg?e=3KAYSz" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: Praça Mose Míssio, s/n - Centro</h3>
+
+PaginasDoMunicipio\São__Lourenço__do__Sul.html:
+  30      <h3 class="gestao__infos">Website: <a href="https://www.saolourencodosul.rs.gov.br
+  31:         " target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  32      <h3 class="gestao__infos">Email: Ouvidoria@saolourencodosul.rs.gov.br</h3>
+  33      <h3 class="gestao__infos">Telefone: (53) 3251-9500</h3>
+  34:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EJGHibGT6DdKDTRA?e=xCFVnU" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  35       <h3 class="gestao__infos">Endreço: Rua Cel. Cel Alfredo Born 202, São Lourenço do Sul</h3>
+
+PaginasDoMunicipio\Sarandi.html:
+  29      <h3 class="gestao__infos">CNPJ: 03.610.806/0001-90</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="https://sarandi.rs.gov.br/" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: contato@sarandi.rs.gov.br</h3>
+  32:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EKpBtU8txeDOt94Q?e=y3nsFI" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  33       <h3 class="gestao__infos">Telefone: (54) 3361-5600
+
+PaginasDoMunicipio\Seberi.html:
+  29      <h3 class="gestao__infos">CNPJ: 87.613.196/0001-78</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="https://seberi.atende.net/" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: administracao@pmseberi.com.br</h3>
+  32:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6ELv0BQFR8955SCjA?e=ifCJhs" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  33       <h3 class="gestao__infos">Telefone: (55) 3746-1309</h3>
+
+PaginasDoMunicipio\Sertão__Santana.html:
+  29      <h3 class="gestao__infos">CNPJ: 94.068.236/0001-03</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="http://sertaosantana-rs.com.br/" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: Gabinete@sertaosantana-rs.com.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3495-1066</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EMsDQxkPybBF_H2A?e=t2wWCq" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: Rua Ladislau Ribarscki S/N, Sertão Santana</h3>
+
+PaginasDoMunicipio\Taquaruçu__do__Sul.html:
+  29      <h3 class="gestao__infos">CNPJ: 92.403.567/0001-27</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="https://www.taquarucudosulrs.com.br/" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: municipiodetaquarucudosul@hotmail.com</h3>
+  32      <h3 class="gestao__infos">Telefone: (55) 3739 1079 || (55) 3739 1080</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6ENaprxqSnYsnWy7Q?e=Fbp0G4" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: Rua do Comércio, 1424
+
+PaginasDoMunicipio\Terra__de__Areia.html:
+  30      <h3 class="gestao__infos">Website: <a href="
+  31:         https://www.terradeareia.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  32      <h3 class="gestao__infos">Email: contato@terradeareia.rs.gov.br</h3>
+  33      <h3 class="gestao__infos">Telefone: (51) 3666-1285</h3>
+  34:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EOF7anuPcza5ek1g?e=AMG7Ur" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  35       <h3 class="gestao__infos">Endreço: Rua Tancredo Neves, 500 - Centro</h3>
+
+PaginasDoMunicipio\Trindade__do__Sul.html:
+  29      <h3 class="gestao__infos">CNPJ: 92.399.211/0001-67</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="www.trindadedosul.rs.gov.br" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@trindadedosul.rs.gov.br || administracao@trindadedosul.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (54) 3541 - 1025 || (54) 3541 - 1300</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EPeRP7cnbu5HdNDA?e=KSp9i3" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: Rua Alecrim, 120, Centro
+
+PaginasDoMunicipio\Viamão.html:
+  29      <h3 class="gestao__infos">CNPJ: 88.000.914/0001-01</h3>
+  30:     <h3 class="gestao__infos">Website: <a href="https://www.viamao.rs.gov.br/" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>
+  31      <h3 class="gestao__infos">Email: gabinete@viamao.rs.gov.br</h3>
+  32      <h3 class="gestao__infos">Telefone: (51) 3493-1320</h3>
+  33:     <h3 class="gestao__infos" class="oii">Pasta One Drive: <a href="https://1drv.ms/f/s!Auumpt3Tb7ZGg6EQt4HInYRr3sGa3w?e=NwlECI" target="_blank" class="link_pasta__drive">Clique aqui</a></h3>  
+  34       <h3 class="gestao__infos">Endreço: Prefeitura Municipal de Viamão - Praça Júlio de Castilhos - Centro, Viamão - RS</h3>
